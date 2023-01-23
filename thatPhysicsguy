@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title>hello world</title> 
+</head>
+<body bgcolor = "lightblue">
+    <h1><font color = "Green"><center>Welcome to the official website of thatPhysicsguy</h1></font></center>
+    <center><a href="https://www.youtube.com/channel/UCkucofAr2ybrLcppAfn4j-Q">Visit my youtube channel</a></center>
+    <h2 align="center">About</h2>
+    <p align="center">I am student that is passionate about physics and likes making videos</p>
+    <a href="http://127.0.0.1:5500/the_life_of_a_star.html">The life of a star</a>
+    </body>
+    </html>
